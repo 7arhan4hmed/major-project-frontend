@@ -1,0 +1,6 @@
+{
+  "name": "EventFlow Enterprise",
+  "description": "Event-Driven Order & Inventory Management System using Microservices and Apache Kafka",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
